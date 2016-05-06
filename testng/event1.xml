@@ -1,0 +1,11 @@
+
+<suite name="Demo">
+	<test name="Test">
+		<classes>
+			<class name="src.reg.tests.event1.AssetStartFeature"/>
+			<class name="src.reg.tests.event1.AssetStartTrailer"/>
+			<class name="src.reg.tests.event1.AssetStartBonus"/>
+			<class name="src.reg.tests.event1.AssetStartDiscover"/>
+		</classes>
+	</test>
+</suite>

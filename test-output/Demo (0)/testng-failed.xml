@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Demo (0)]">
+  <test name="Test">
+    <packages>
+      <package name="src.reg.tests.*"/>
+    </packages>
+    <classes>
+      <class name="src.reg.tests.event1.AssetStartFeature"/>
+      <class name="src.reg.tests.event1.AssetStartTrailer"/>
+      <class name="src.reg.tests.event10.SignInStartFeatured"/>
+      <class name="src.reg.tests.event31.SignInComplete"/>
+      <class name="src.reg.tests.event52.NavigationClickMyCollection"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Demo (0)] -->

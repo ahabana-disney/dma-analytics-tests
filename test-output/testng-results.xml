@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Demo" duration-ms="171985" started-at="2016-05-03T21:22:46Z" finished-at="2016-05-03T21:25:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="171985" started-at="2016-05-03T21:22:46Z" finished-at="2016-05-03T21:25:38Z">
+      <class name="src.reg.tests.event1.AssetStartBonus">
+        <test-method status="PASS" signature="start()[pri:0, instance:src.reg.tests.event1.AssetStartBonus@1a23b66]" name="start" is-config="true" duration-ms="7472" started-at="2016-05-03T14:24:14Z" finished-at="2016-05-03T14:24:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="bonusPlayMovieDetailsSignedIn()[pri:0, instance:src.reg.tests.event1.AssetStartBonus@1a23b66]" name="bonusPlayMovieDetailsSignedIn" duration-ms="46047" started-at="2016-05-03T14:24:21Z" finished-at="2016-05-03T14:25:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bonusPlayMovieDetailsSignedIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:src.reg.tests.event1.AssetStartBonus@1a23b66]" name="closeBrowser" is-config="true" duration-ms="1322" started-at="2016-05-03T14:25:07Z" finished-at="2016-05-03T14:25:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- src.reg.tests.event1.AssetStartBonus -->
+      <class name="src.reg.tests.event1.AssetStartTrailer">
+        <test-method status="PASS" signature="start()[pri:0, instance:src.reg.tests.event1.AssetStartTrailer@1ebcae2]" name="start" is-config="true" duration-ms="6812" started-at="2016-05-03T14:23:30Z" finished-at="2016-05-03T14:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="movieDetailsSignedIn()[pri:0, instance:src.reg.tests.event1.AssetStartTrailer@1ebcae2]" name="movieDetailsSignedIn" duration-ms="35798" started-at="2016-05-03T14:23:36Z" finished-at="2016-05-03T14:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- movieDetailsSignedIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:src.reg.tests.event1.AssetStartTrailer@1ebcae2]" name="closeBrowser" is-config="true" duration-ms="1408" started-at="2016-05-03T14:24:12Z" finished-at="2016-05-03T14:24:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- src.reg.tests.event1.AssetStartTrailer -->
+      <class name="src.reg.tests.event1.AssetStartFeature">
+        <test-method status="PASS" signature="start()[pri:0, instance:src.reg.tests.event1.AssetStartFeature@babb1]" name="start" is-config="true" duration-ms="10192" started-at="2016-05-03T14:22:46Z" finished-at="2016-05-03T14:22:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="myCollectionSignedIn()[pri:0, instance:src.reg.tests.event1.AssetStartFeature@babb1]" name="myCollectionSignedIn" duration-ms="31747" started-at="2016-05-03T14:22:57Z" finished-at="2016-05-03T14:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myCollectionSignedIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:src.reg.tests.event1.AssetStartFeature@babb1]" name="closeBrowser" is-config="true" duration-ms="1308" started-at="2016-05-03T14:23:28Z" finished-at="2016-05-03T14:23:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- src.reg.tests.event1.AssetStartFeature -->
+      <class name="src.reg.tests.event1.AssetStartDiscover">
+        <test-method status="PASS" signature="start()[pri:0, instance:src.reg.tests.event1.AssetStartDiscover@1f4f00f]" name="start" is-config="true" duration-ms="8028" started-at="2016-05-03T14:25:09Z" finished-at="2016-05-03T14:25:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="bonusPlayMovieDetailsSignedIn()[pri:0, instance:src.reg.tests.event1.AssetStartDiscover@1f4f00f]" name="bonusPlayMovieDetailsSignedIn" duration-ms="20237" started-at="2016-05-03T14:25:17Z" finished-at="2016-05-03T14:25:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bonusPlayMovieDetailsSignedIn -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:src.reg.tests.event1.AssetStartDiscover@1f4f00f]" name="closeBrowser" is-config="true" duration-ms="1537" started-at="2016-05-03T14:25:37Z" finished-at="2016-05-03T14:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- src.reg.tests.event1.AssetStartDiscover -->
+    </test> <!-- Test -->
+  </suite> <!-- Demo -->
+</testng-results>
